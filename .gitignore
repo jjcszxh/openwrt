@@ -35,3 +35,4 @@ git-src
 .cproject
 .ccache
 .vscode*
+BeeconMini-SEED-AC1-Openwrt-*.config
